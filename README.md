@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-<img src="assets/paola-profile.jpg" alt="PaolaAPL17" width="150" />
+<img src="assets/Paola.jpg" alt="PaolaAPL17" width="150" />
 </p>
