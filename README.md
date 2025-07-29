@@ -5,8 +5,13 @@
 <h1 align="center">¡Hola, soy Paola! 👋</h1>
 
 <p align="center">
-  💻 <strong>Junior Backend Developer</strong> en constante aprendizaje. Me apasiona construir soluciones sólidas usando <strong>Java, Spring Boot</strong> y buenas prácticas como <strong>Testing, SOLID, CI/CD</strong>. Busco seguir creciendo profesionalmente en entornos colaborativos con metodologías ágiles como <strong>SCRUM</strong>.
+  💻 <strong>Junior Backend Developer</strong> con experiencia en desarrollo backend y enfoque en <strong>ciberseguridad</strong> para garantizar la protección de datos y sistemas. Poseo habilidades comprobadas en <strong>gestión de procesos</strong> y <strong>atención al cliente</strong>, favoreciendo la colaboración interdisciplinaria. Enfocada en la <strong>optimización de flujos de trabajo</strong> y la implementación de soluciones basadas en datos para maximizar resultados. Busco integrarme en equipos dinámicos donde aportar valor y continuar aprendiendo.
 </p>
+
+<p align="center">
+  💻 <strong>Junior Backend Developer</strong> with experience in backend development and a focus on <strong>cybersecurity</strong> to ensure data and system protection. Skilled in <strong>process management</strong> and <strong>customer service</strong>, fostering interdisciplinary collaboration. Focused on <strong>workflow optimization</strong> and implementing data-driven solutions to maximize outcomes. Seeking to join dynamic teams to contribute value and continue learning.
+</p>
+
 
 ---
 
